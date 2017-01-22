@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Container version="2">
+<Container>
   <Beta>True</Beta>
   <Category>MediaApp:Books</Category>
   <Date>2017-01-21</Date>
@@ -73,5 +73,5 @@
   <Banner></Banner>
   <Icon>https://raw.githubusercontent.com/thraxis/docker-templates/master/thraxis/img/lazylibrarian-calibre-icon.png</Icon>
   <ExtraParams></ExtraParams>
-  <BaseImage>lsiobase/alpine.python</BaseImage>
+  <BaseImage>linuxserver/lazylibrarian</BaseImage>
 </Container>
